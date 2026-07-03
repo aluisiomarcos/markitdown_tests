@@ -14,3 +14,5 @@ with open(arquivo_saida, "w", encoding="utf-8") as f:
 print(f"Sucesso! Arquivo salvo em {arquivo_saida}")
 
 # o comando para rodar é: uv run main.py
+
+# Teste lalalala pra ver o github!
